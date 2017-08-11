@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "Petclinic",
+    "repo": "pkujala/demo",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
